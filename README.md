@@ -1,16 +1,20 @@
-## Hi there 👋
+# UX-Giustizia
 
-<!--
-**UX-GIUSTIZIA/UX-Giustizia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX Giustizia è un'applicazione offline open source per l'analisi investigativa di casi complessi, inclusi abusi sistematici.
 
-Here are some ideas to get you started:
+L'app permette di organizzare:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- fatti
+- prove
+- atti
+- circostanze
+- relazioni logiche tra elementi
+
+## Obiettivo
+
+Consentire una ricostruzione chiara e verificabile delle dinamiche di un caso.
+
+## Licenza
+
+GNU General Public License
+© 2026 UX-Giustizia
