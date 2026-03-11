@@ -38,6 +38,24 @@ Prova ↔ Circostanza
 
 Nota: il modello completo delle relazioni è più articolato e viene sviluppato all'interno del progetto.
 
+## Struttura del sistema
+
+UX-Giustizia organizza le informazioni di un caso attraverso quattro elementi fondamentali:
+
+**Fatto**
+Evento o situazione rilevante per il caso che deve essere analizzato o ricostruito.
+
+**Prova**
+Elemento informativo che conferma, contraddice o integra un fatto (documenti, testimonianze, registrazioni, ecc.).
+
+**Atto**
+Documento o attività formale collegata al caso (denuncia, querela, verbale, segnalazione, ecc.).
+
+**Circostanza**
+Elemento di contesto che può influenzare l'interpretazione di fatti o prove (tempo, luogo, condizioni, relazioni tra soggetti, ecc.).
+
+Questi elementi possono essere collegati tra loro tramite relazioni logiche che permettono di analizzare la struttura complessiva di un caso.
+
 ## Licenza
 
 Questo progetto è distribuito sotto licenza GNU General Public License (GPL).
