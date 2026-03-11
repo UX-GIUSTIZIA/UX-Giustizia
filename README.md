@@ -33,9 +33,7 @@ Il sistema organizza gli elementi di un caso tramite relazioni tra:
 Relazioni principali:
 
 Fatto ← Prova
-
 Fatto ← Atto
-
 Prova ↔ Circostanza
 
 Nota: il modello completo delle relazioni è più articolato e viene sviluppato all'interno del progetto.
@@ -58,8 +56,24 @@ Elemento di contesto che può influenzare l'interpretazione di fatti o prove (te
 
 Questi elementi possono essere collegati tra loro tramite relazioni logiche che permettono di analizzare la struttura complessiva di un caso.
 
+## Progetti correlati
+
+### No Abiss
+
+No Abiss è un progetto informativo dedicato alla sensibilizzazione sugli abusi e alle criticità che possono verificarsi all'interno del sistema di giustizia.
+
+Il progetto promuove trasparenza, documentazione dei casi e analisi delle procedure applicate.
+
+UX-Giustizia nasce anche con l'obiettivo di fornire uno strumento per organizzare e analizzare in modo strutturato fatti, prove e atti relativi a casi complessi.
+
+Sito del progetto:
+https://www.noabiss.it
+
+Nota: l'applicazione UX-Giustizia è attualmente pubblicata come progetto open source su GitHub e sarà integrata progressivamente nel sito No Abiss.
+
 ## Licenza
 
 Questo progetto è distribuito sotto licenza GNU General Public License (GPL).
 
 © 2026 UX-Giustizia
+
