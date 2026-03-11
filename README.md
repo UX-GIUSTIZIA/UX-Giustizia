@@ -33,7 +33,9 @@ Il sistema organizza gli elementi di un caso tramite relazioni tra:
 Relazioni principali:
 
 Fatto ← Prova
+
 Fatto ← Atto
+
 Prova ↔ Circostanza
 
 Nota: il modello completo delle relazioni è più articolato e viene sviluppato all'interno del progetto.
