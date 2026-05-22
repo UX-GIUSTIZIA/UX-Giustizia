@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#0d1b48"/>
+  <ellipse cx="342.2" cy="113.9" rx="4.2" ry="11.0" fill="white" transform="rotate(370,342.2,113.9)"/>
+  <ellipse cx="297.8" cy="113.9" rx="4.2" ry="11.0" fill="white" transform="rotate(350,297.8,113.9)"/>
+  <ellipse cx="312.9" cy="112.2" rx="4.2" ry="11.0" fill="white" transform="rotate(356.8421052631579,312.9,112.2)"/>
+  <ellipse cx="327.1" cy="112.2" rx="4.2" ry="11.0" fill="white" transform="rotate(363.1578947368421,327.1,112.2)"/>
+  <ellipse cx="284.0" cy="117.2" rx="4.2" ry="11.0" fill="white" transform="rotate(343.6842105263158,284.0,117.2)"/>
+  <ellipse cx="356.0" cy="117.2" rx="4.2" ry="11.0" fill="white" transform="rotate(376.3157894736842,356.0,117.2)"/>
+  <ellipse cx="257.0" cy="128.6" rx="4.2" ry="11.0" fill="white" transform="rotate(330.5263157894737,257.0,128.6)"/>
+  <ellipse cx="383.0" cy="128.6" rx="4.2" ry="11.0" fill="white" transform="rotate(389.4736842105263,383.0,128.6)"/>
+  <ellipse cx="233.3" cy="145.8" rx="4.2" ry="11.0" fill="white" transform="rotate(317.36842105263156,233.3,145.8)"/>
+  <ellipse cx="406.7" cy="145.8" rx="4.2" ry="11.0" fill="white" transform="rotate(402.63157894736844,406.7,145.8)"/>
+  <ellipse cx="214.1" cy="168.0" rx="4.2" ry="11.0" fill="white" transform="rotate(304.2105263157895,214.1,168.0)"/>
+  <ellipse cx="425.9" cy="168.0" rx="4.2" ry="11.0" fill="white" transform="rotate(415.7894736842105,425.9,168.0)"/>
+  <ellipse cx="200.5" cy="194.0" rx="4.2" ry="11.0" fill="white" transform="rotate(291.0526315789474,200.5,194.0)"/>
+  <ellipse cx="439.5" cy="194.0" rx="4.2" ry="11.0" fill="white" transform="rotate(428.9473684210526,439.5,194.0)"/>
+  <ellipse cx="193.2" cy="222.4" rx="4.2" ry="11.0" fill="white" transform="rotate(277.89473684210526,193.2,222.4)"/>
+  <ellipse cx="446.8" cy="222.4" rx="4.2" ry="11.0" fill="white" transform="rotate(442.10526315789474,446.8,222.4)"/>
+  <ellipse cx="192.5" cy="251.7" rx="4.2" ry="11.0" fill="white" transform="rotate(264.7368421052632,192.5,251.7)"/>
+  <ellipse cx="447.5" cy="251.7" rx="4.2" ry="11.0" fill="white" transform="rotate(455.2631578947368,447.5,251.7)"/>
+  <ellipse cx="198.6" cy="280.4" rx="4.2" ry="11.0" fill="white" transform="rotate(251.57894736842104,198.6,280.4)"/>
+  <ellipse cx="441.4" cy="280.4" rx="4.2" ry="11.0" fill="white" transform="rotate(468.42105263157896,441.4,280.4)"/>
+  <ellipse cx="211.0" cy="307.0" rx="4.2" ry="11.0" fill="white" transform="rotate(238.42105263157896,211.0,307.0)"/>
+  <ellipse cx="429.0" cy="307.0" rx="4.2" ry="11.0" fill="white" transform="rotate(481.57894736842104,429.0,307.0)"/>
+  <ellipse cx="229.1" cy="330.1" rx="4.2" ry="11.0" fill="white" transform="rotate(225.26315789473685,229.1,330.1)"/>
+  <ellipse cx="410.9" cy="330.1" rx="4.2" ry="11.0" fill="white" transform="rotate(494.7368421052631,410.9,330.1)"/>
+  <ellipse cx="252.0" cy="348.4" rx="4.2" ry="11.0" fill="white" transform="rotate(212.10526315789474,252.0,348.4)"/>
+  <ellipse cx="388.0" cy="348.4" rx="4.2" ry="11.0" fill="white" transform="rotate(507.89473684210526,388.0,348.4)"/>
+  <ellipse cx="278.4" cy="361.1" rx="4.2" ry="11.0" fill="white" transform="rotate(198.94736842105263,278.4,361.1)"/>
+  <ellipse cx="361.6" cy="361.1" rx="4.2" ry="11.0" fill="white" transform="rotate(521.0526315789474,361.6,361.1)"/>
+  <ellipse cx="307.1" cy="367.3" rx="4.2" ry="11.0" fill="white" transform="rotate(185.78947368421055,307.1,367.3)"/>
+  <ellipse cx="332.9" cy="367.3" rx="4.2" ry="11.0" fill="white" transform="rotate(534.2105263157895,332.9,367.3)"/>
+  <ellipse cx="336.4" cy="366.9" rx="4.2" ry="11.0" fill="white" transform="rotate(172.6315789473684,336.4,366.9)"/>
+  <ellipse cx="303.6" cy="366.9" rx="4.2" ry="11.0" fill="white" transform="rotate(547.3684210526316,303.6,366.9)"/>
+  <ellipse cx="364.9" cy="359.9" rx="4.2" ry="11.0" fill="white" transform="rotate(159.47368421052633,364.9,359.9)"/>
+  <ellipse cx="275.1" cy="359.9" rx="4.2" ry="11.0" fill="white" transform="rotate(560.5263157894736,275.1,359.9)"/>
+  <ellipse cx="391.0" cy="346.5" rx="4.2" ry="11.0" fill="white" transform="rotate(146.31578947368422,391.0,346.5)"/>
+  <ellipse cx="249.0" cy="346.5" rx="4.2" ry="11.0" fill="white" transform="rotate(573.6842105263158,249.0,346.5)"/>
+  <ellipse cx="413.4" cy="327.6" rx="4.2" ry="11.0" fill="white" transform="rotate(133.1578947368421,413.4,327.6)"/>
+  <ellipse cx="226.6" cy="327.6" rx="4.2" ry="11.0" fill="white" transform="rotate(586.8421052631579,226.6,327.6)"/>
+  <ellipse cx="430.9" cy="304.0" rx="4.2" ry="11.0" fill="white" transform="rotate(120,430.9,304.0)"/>
+  <ellipse cx="209.1" cy="304.0" rx="4.2" ry="11.0" fill="white" transform="rotate(600,209.1,304.0)"/>
+  <circle cx="320" cy="364" r="5" fill="white"/>
+  <circle cx="308" cy="358" r="4" fill="white"/>
+  <circle cx="332" cy="358" r="4" fill="white"/>
+  
+  <!-- Pole -->
+  <line x1="320" y1="200" x2="320" y2="350" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <!-- Beam top knob -->
+  <circle cx="320" cy="200" r="7" fill="white"/>
+  <!-- Beam -->
+  <line x1="255" y1="210" x2="385" y2="210" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <!-- Left chains -->
+  <line x1="260" y1="215" x2="245" y2="280" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="260" y1="215" x2="275" y2="280" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Left pan -->
+  <path d="M235,282 Q260,298 285,282" fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right chains -->
+  <line x1="380" y1="215" x2="365" y2="280" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="380" y1="215" x2="395" y2="280" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Right pan -->
+  <path d="M355,282 Q380,298 405,282" fill="none" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <!-- Base -->
+  <rect x="280" y="344" width="80" height="12" rx="6" fill="white"/>
+
+</svg>
